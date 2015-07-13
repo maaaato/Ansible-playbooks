@@ -1,0 +1,4 @@
+.vagrant
+history
+variables.json
+packer.json
